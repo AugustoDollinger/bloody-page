@@ -15,6 +15,7 @@ body {
     flex-direction: column;
     background-color: #1f2937;
     padding-bottom: 80px;
+    padding-right: auto;
 }
 
 .header {
@@ -43,7 +44,7 @@ a {
 }
 
 .imageup {
-    display: flex;
+    flex: 0 1;
     background-color: #768191c1;
     width: 500px;
     height: auto;
